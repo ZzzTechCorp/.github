@@ -1,4 +1,4 @@
-# 🚀 公司產品介紹 / Company Product Introduction
+# 🚀 公司介紹 / Company Introduction
 
 
 當一天2️⃣4️⃣小時有8️⃣小時在技術上，一週就花了5️⃣6️⃣小時。<br>
